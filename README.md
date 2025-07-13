@@ -11,3 +11,9 @@ REQUER OVERCLOCK:Adicione um arquivo com nome "cpuclock.txt" com 1500 dentro do 
 Esse arquivo deve ficar dentro de Saves/CurrentProfile/config/Genesis Plus GX</br>
 Em cima do jogo use Y pra mudar o core para Genesis Plus GX</br>
 <a href=https://github.com/RapidEdwin08/Genesis-Plus-GX-Expanded-Rom-Size/raw/refs/heads/master/builds/RPi3-Buster/lr-genesis-plus-gx-EX/genesis_plus_gx_libretro.so>Download</a>
+</br>
+
+Anbernic Stock
+-
+Não testado</br>
+<a href=https://drive.google.com/file/d/17J5dlxwaHpBy0cHITwaHZHEChuHouB83/view>Download</a>
